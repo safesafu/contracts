@@ -1,6 +1,6 @@
 # safesafu contracts
 
-token contracts : 0xd467a3e2f227d68a6af48ff126d436c4c0774baf
+token contracts : 0x194fB6618250deAc59FA9f92C705A36f2C0e6142
 
 autoLiquidityReceiver : 0x98baA6b006aA990FD4bFc91edE167f6015D3B392 (Multisig)
 
